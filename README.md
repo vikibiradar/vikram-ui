@@ -1,2 +1,2 @@
 # vikram-ui
-innovative no-code platform that allows users to create web applications using natural language prompts, making app development accessible to everyone, regardless of technical expertise.
+Innovative no-code platform that allows users to create web applications using natural language prompts, making app development accessible to everyone, regardless of technical expertise.
